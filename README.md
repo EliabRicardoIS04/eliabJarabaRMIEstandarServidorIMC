@@ -2,5 +2,5 @@
 
 ##Estudiante: ##Eliab Ricardo Jaraba Rios
 
-Guia de eliabjarabaRMIestandarCliente: 
+eliabJarabaRMIEstandarServidorIMC: 
 https://github.com/EliabRicardoIS04/eliabJarabaRMIEstandarServidorIMC/blob/main/eliabJarabaRMIEstandarServidorIMC/proyecto%20RMI%20Estandar%20-%20Calculadora%20IMC%20.pdf
