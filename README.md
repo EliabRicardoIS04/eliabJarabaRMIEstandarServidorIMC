@@ -1,4 +1,4 @@
-#Cliente TCP/iP sobre una calculadora IMC
+#Servidor RMI Estandar sobre una calculadora IMC
 
 ##Estudiante: ##Eliab Ricardo Jaraba Rios
 
